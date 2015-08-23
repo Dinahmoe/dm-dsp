@@ -1,0 +1,14 @@
+//
+//  DmDspConfig.hpp.in.hpp
+//  Project
+//
+//  Created by Alessandro Saccoia on 3/20/14.
+//
+//
+
+#ifndef Project_DmDspConfig_in_hpp
+#define Project_DmDspConfig_in_hpp
+
+#define @DM_DSP_DEFINE_FRAMEWORK@
+
+#endif
